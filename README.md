@@ -1,5 +1,14 @@
-## My final project for COMM313 _Computational Text Analysis for Communication Research_ (Spring 21)
+## Lance Armstrong - Hero or disgrace?
 
-* You will edit this file to act as the main index page for your project 
+* This project explores the media port....
 
-* Change the title and write an overview of your project and description of the content.
+* Index
+  * `data` - this folder has the news media articles collected 
+  * `data_analysis` - the notebooks in this folder walk through the steps of data analysis...
+    * collecting data
+    * exploring and describing data
+    * ..
+  * `presentation` -
+  * ...
+  
+  
